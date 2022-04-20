@@ -3,8 +3,8 @@ title: Zetaroid's Site of Wonders
 subtitle: by ya boi
 email: zetaroidm@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: zetaroid.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
