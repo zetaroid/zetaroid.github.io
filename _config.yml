@@ -1,17 +1,17 @@
 # site settings
-title: Zetaroid's Site of Wonders
-subtitle: by ya boi
-email: zetaroidm@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Marcus Oertle
+subtitle: Product Manager | Software Engineer | MBA Candidate
+email: marcusoertle@gmail.com
+description: I'm a product manager focused on entering the gaming industry.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address:
+city:
+state:
+zip_code:
 country: United States of America
-phone: (716) 555-5555
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
