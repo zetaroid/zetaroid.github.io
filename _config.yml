@@ -1,10 +1,10 @@
 # site settings
-title: Zetaroid's Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Zetaroid's Site of Wonders
+subtitle: by ya boi
+email: zetaroidm@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: zetaroid.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/zetaroid
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/marcus-oertle
+  Twitter:
   Facebook:
   Slack:
 
