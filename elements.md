@@ -2,7 +2,8 @@
 layout: page
 title: Elements
 image: assets/images/aboutme.png
-nav-menu: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
