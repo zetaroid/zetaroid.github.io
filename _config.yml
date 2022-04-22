@@ -8,7 +8,7 @@ url: # the base hostname & protocol for your site
 author:
 street_address:
 city:
-state: Maryland
+state: Maryland,
 zip_code:
 country: United States of America
 phone: Please email me instead!
@@ -22,11 +22,11 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
+  LinkedIn: https://www.linkedin.com/in/marcus-oertle
   GitHub: https://github.com/zetaroid
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/marcus-oertle
   Twitter:
   Facebook:
   Slack:

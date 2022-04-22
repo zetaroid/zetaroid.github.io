@@ -1,6 +1,20 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<a href="{{ "" | absolute_url }}" class="image">
+        <img src="{% link assets/images/marcus.png %}" alt="" data-position="center center" />
+    </a>
 	<a href="{{ "" | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<ul class="icons">
+		{% for key_value in site.socials %}
+			{% if key_value[1] %}
+				<li>
+					<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+						<span class="label">{{ key_value[0] }}</span>
+					</a>
+				</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
