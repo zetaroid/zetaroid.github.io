@@ -59,7 +59,7 @@ nav-menu: true
 				</header>
 				<p>High School really is a magical time where you can be a track and field captain, play saxophone in jazz/concert/pit band, become president of an honor society, get your eagle scout, and still have time for socializing and sleep.</p>
 				<ul class="actions">
-					<li><a href="https://www.dvrhs.org/" class="button">Learn more (jk you don't want to know about my high school do you?)</a></li>
+					<li><a href="https://www.dvrhs.org/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
