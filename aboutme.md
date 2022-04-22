@@ -5,6 +5,7 @@ description:
 image: assets/images/aboutme.png
 nav-menu: true
 ---
+Good day! My name is Marcus Oertle.
 
 I am an MBA candidate with a strong technical and business background who will be working at Red Hat as an intern for summer 2022. I have a passion for the integration of business and technology, especially finding ways to innovate functionality.
 
