@@ -59,7 +59,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://pratt.duke.edu/" class="image">
-			<img src="{% link assets/images/duke.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/duke.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

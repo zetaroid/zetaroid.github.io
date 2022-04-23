@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Personal Projects
 layout: landing
 description: 
 image: assets/images/banner2022.png
@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/zetaroid/pokeDiscordPublic/blob/main/README.md" class="image">
+		<a href="https://www.youtube.com/watch?v=QzVNxIQBygw" class="image">
 			<img src="{% link assets/images/pokenav.gif %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -24,7 +24,7 @@ nav-menu: true
 				</header>
 				<p>A Discord bot that is a full-length Pokemon RPG game experience that includes exploration, battles, gyms, PVP, trading, Battle Tower, and more! Currently the game has over 3200 players and growing along with an active community.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/zetaroid/pokeDiscordPublic/blob/main/README.md" class="button">Check it out!</a></li>
+					<li><a href="https://www.youtube.com/watch?v=QzVNxIQBygw" class="button">Check it out!</a></li>
 				</ul>
 			</div>
 		</div>
@@ -49,7 +49,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/duke.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/duke.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

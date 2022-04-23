@@ -23,7 +23,7 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   LinkedIn: https://www.linkedin.com/in/marcus-oertle
-  GitHub: https://github.com/zetaroid
+  GitHub:
   GitLab:
   Google-Plus:
   Instagram:
