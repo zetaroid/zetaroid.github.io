@@ -41,7 +41,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://www.att.com/" class="image">
-			<img src="{% link assets/images/att.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/att.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
