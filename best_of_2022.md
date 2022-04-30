@@ -38,7 +38,7 @@ show_tile: false
 					<p>February 25, 2022</p>
 					<p>PC, Xbox, Playstation</p>
 				</header>
-				<p>If you've looked at my top 20 games list, you might notice that there is not a single Dark Souls game on that list. Dark Souls is a great series, but I was never able to get into it. However, Elden Ring took the base concept and refined combat mechanics and put it in an open world setting - and, oh boy, it WORKS. It took me around 90 hours to complete this game and there is still so much left unexplored; and unlike many other open world games I never once felt fatigued or bored of the world I was exploring.</p>
+				<p>If you've looked at my top games list, you might notice that there is not a single Dark Souls game on that list. Dark Souls is a great series, but I was never able to get into it. However, Elden Ring took the base concept and refined combat mechanics and put it in an open world setting - and, oh boy, it WORKS. It took me around 90 hours to complete this game and there is still so much left unexplored; and unlike many other open world games I never once felt fatigued or bored of the world I was exploring.</p>
 			</div>
 		</div>
 	</section>
