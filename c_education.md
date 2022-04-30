@@ -40,7 +40,7 @@ nav-menu: true
 					<p>Computer Engineering / Computer Science</p>
 					<p>2015-2019</p>
 				</header>
-				<p>During my four exciting year studying computer engineering and computer science at Duke University, I was a teacher assistant for the introductory engineering course that focused on solving complex mathetical engineering problem using both MATLAB and Python.</p>
+				<p>At Duke University I pursued a double major: one in electrical/computer engineering and the other in computer science. My time at Duke was an amazing opportunity for both learning and personal growth. Most of my free time was spent as part of the Duke Swing Dance Performance Club.</p>
 				<ul class="actions">
 					<li><a href="https://pratt.duke.edu/" class="button">Learn more</a></li>
 				</ul>

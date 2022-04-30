@@ -38,7 +38,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Button Fighter</h3>
 					<p>Android App</p>
-					<p>2019</p>
+					<p>2020</p>
 				</header>
 				<p>It's a simple Android game with high replayability where you play as a knight against a single boss enemy. Combat is based on quick reaction timing against the bosses different attacks in a rock/paper/scissors format. Gain EXP to level up and unlock equipable items.</p>
 				<ul class="actions">

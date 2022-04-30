@@ -72,5 +72,20 @@ show_tile: false
 			</div>
 		</div>
 	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/switchsports.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Nintendo Switch Sports</h3>
+					<p>April 29, 2022</p>
+					<p>Nintendo Switch</p>
+				</header>
+				<p>Party like it's 2008. This throwback to the Wii era of Wii Sports is wonderfully nostalgic and equally fresh for 2022. The addition of online play to the beloved formula cannot be understated and adds so much more depth to the classic concept.</p>
+			</div>
+		</div>
+	</section>
 </section>
 </div>

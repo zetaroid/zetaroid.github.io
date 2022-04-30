@@ -1,7 +1,7 @@
 ---
 title: Work Experience
 layout: landing
-description: My journey so far...
+description:
 image: assets/images/techbackground.png
 nav-menu: true
 ---
