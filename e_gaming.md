@@ -18,9 +18,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Top 20 Games of All Time</h3>
+					<h3>Top 10 Games of All Time</h3>
 				</header>
-				<p>A completely biased and not at all objective list of my top 20 games of all time.</p>
+				<p>A completely biased and not at all objective list of my top 10 games of all time.</p>
 				<ul class="actions">
 					<li><a href="top_games.html" class="button">See it!</a></li>
 				</ul>
