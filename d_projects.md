@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://www.youtube.com/watch?v=QzVNxIQBygw" target="_blank" class="image">
+		<a href="https://www.youtube.com/watch?v=QzVNxIQBygw" target="_blank" rel="noopener noreferrer" class="image">
 			<img src="{% link assets/images/pokenav.gif %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -24,13 +24,13 @@ nav-menu: true
 				</header>
 				<p>A Discord bot that is a full-length Pokemon RPG game experience that includes exploration, battles, gyms, PVP, trading, Battle Tower, and more! Currently the game has over 3200 players and growing along with an active community.</p>
 				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=QzVNxIQBygw" target="_blank" class="button">Check it out!</a></li>
+					<li><a href="https://www.youtube.com/watch?v=QzVNxIQBygw" target="_blank" rel="noopener noreferrer" class="button">Check it out!</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://play.google.com/store/apps/details?id=com.Zetaroid.ButtonFighter&hl=en_US&gl=US" target="_blank" class="image">
+		<a href="https://play.google.com/store/apps/details?id=com.Zetaroid.ButtonFighter&hl=en_US&gl=US" target="_blank" rel="noopener noreferrer" class="image">
 			<img src="{% link assets/images/buttonfighter.gif %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -42,7 +42,7 @@ nav-menu: true
 				</header>
 				<p>It's a simple Android game with high replayability where you play as a knight against a single boss enemy. Combat is based on quick reaction timing against the bosses different attacks in a rock/paper/scissors format. Gain EXP to level up and unlock equipable items.</p>
 				<ul class="actions">
-					<li><a href="https://play.google.com/store/apps/details?id=com.Zetaroid.ButtonFighter&hl=en_US&gl=US" target="_blank" class="button">Check it out!</a></li>
+					<li><a href="https://play.google.com/store/apps/details?id=com.Zetaroid.ButtonFighter&hl=en_US&gl=US" target="_blank" rel="noopener noreferrer" class="button">Check it out!</a></li>
 				</ul>
 			</div>
 		</div>
