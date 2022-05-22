@@ -24,23 +24,23 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="https://www.linkedin.com/in/marcus-oertle" target="_blank">LinkedIn</a></td>
+				<td><a href="https://www.linkedin.com/in/marcus-oertle" target="_blank" rel="noopener noreferrer">LinkedIn</a></td>
 				<td>My professional LinkedIn resume.</td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/zetaroid" target="_blank">GitHub</a></td>
+				<td><a href="https://github.com/zetaroid" target="_blank" rel="noopener noreferrer">GitHub</a></td>
 				<td>Where the code goes.</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.youtube.com/channel/UCAJgbssh9PnR7Prq_2YwawQ" target="_blank">YouTube</a></td>
+				<td><a href="https://www.youtube.com/channel/UCAJgbssh9PnR7Prq_2YwawQ" target="_blank" rel="noopener noreferrer">YouTube</a></td>
 				<td>I don't post a ton, but it's a fun side thing once in awhile.</td>
 			</tr>
 			<tr>
-				<td><a href="https://myanimelist.net/animelist/zetaroid?order=4&status=2" target="_blank">MyAnimeList</a></td>
+				<td><a href="https://myanimelist.net/animelist/zetaroid?order=4&status=2" target="_blank" rel="noopener noreferrer">MyAnimeList</a></td>
 				<td>Every anime I've ever watched.</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.dropbox.com/s/w7157271jrqbt4t/VideoGameList.xlsx?dl=0" target="_blank">Video Game Spreadsheet</a></td>
+				<td><a href="https://www.dropbox.com/s/w7157271jrqbt4t/VideoGameList.xlsx?dl=0" target="_blank" rel="noopener noreferrer">Video Game Spreadsheet</a></td>
 				<td>Every video game I have ever played.</td>
 			</tr>
 		</tbody>
@@ -66,19 +66,19 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="https://www.photopea.com/" target="_blank">Photopea</a></td>
+				<td><a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a></td>
 				<td>A replica Photoshop that runs in your browser. Completey free to use.</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.justbeamit.com/" target="_blank">JustBeamIt</a></td>
+				<td><a href="https://www.justbeamit.com/" target="_blank" rel="noopener noreferrer">JustBeamIt</a></td>
 				<td>A quick way of directly sending files to other people.</td>
 			</tr>
 			<tr>
-				<td><a href="https://appscyborg.com/image-cyborg/" target="_blank">Image Cyborg</a></td>
+				<td><a href="https://appscyborg.com/image-cyborg/" target="_blank" rel="noopener noreferrer">Image Cyborg</a></td>
 				<td>Download any image from any webpage.</td>
 			</tr>
 			<tr>
-				<td><a href="https://noclip.website/" target="_blank">noclip</a></td>
+				<td><a href="https://noclip.website/" target="_blank" rel="noopener noreferrer">noclip</a></td>
 				<td>Freely explore 3D renders of many of your favorite games.</td>
 			</tr>
 		</tbody>
