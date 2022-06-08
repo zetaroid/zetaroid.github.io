@@ -76,7 +76,6 @@ show_tile: false
 			<div class="inner">
 				<header class="major">
 					<h3>#5 - Elden Ring</h3>
-					<p>February 25, 2022</p>
 					<p>PC, Xbox, Playstation</p>
 				</header>
 				<p>While only my second "souls" game (after the remake of Demon's Souls), Elden Ring left a lasting impression. After 90+ hours just to beat the game, I am still left wanting more. The mystical world created by FromSoftware and George R.R. Martin captivated me enough to land it a slot in my top 10. The combat is incredibly refined and is by far the highlight of the game. FromSoftware has made so many "souls" games but Elden Ring feels above and beyond the rest as the culmination of years of perfecting a craft.</p>
