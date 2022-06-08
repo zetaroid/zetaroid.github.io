@@ -18,7 +18,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Current Hype Train: Xenoblade Chronicles 3</h3>
+					<h3>Current Hype Train:<br>Xenoblade Chronicles 3</h3>
 				</header>
 				<p>As the follow up to my #1 game of all time, Xenoblade Chronicles 3 holds the current hype train slot!</p>
 				<p id="countdown"></p>
