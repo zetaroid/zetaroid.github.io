@@ -10,6 +10,16 @@ show_tile: false
 <!-- Main -->
 <div id="main">
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>What I'm Plaing in 2022</h2>
+		</header>
+		<p>In chonological order of when I played them, the best games I'm playing in 2022.</p>
+	</div>
+</section>
+	
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
@@ -84,6 +94,36 @@ show_tile: false
 					<p>Nintendo Switch</p>
 				</header>
 				<p>Party like it's 2008. This throwback to the Wii era of Wii Sports is wonderfully nostalgic and equally fresh for 2022. The addition of online play to the beloved formula cannot be understated and adds so much more depth to the classic concept.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/astralchain.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Astral Chain</h3>
+					<p>August 30, 2019</p>
+					<p>Nintendo Switch</p>
+				</header>
+				<p>Now playing!</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/ghostwiretokyo.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ghostwire Tokyo</h3>
+					<p>March 25, 2022</p>
+					<p>PC, Playstation</p>
+				</header>
+				<p>Now playing!</p>
 			</div>
 		</div>
 	</section>
