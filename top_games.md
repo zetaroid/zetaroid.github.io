@@ -70,12 +70,27 @@ show_tile: false
 	</section>
 	<section>
 		<a class="image">
+			<img src="{% link assets/images/eldenring.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>#5 - Elden Ring</h3>
+					<p>February 25, 2022</p>
+					<p>PC, Xbox, Playstation</p>
+				</header>
+				<p>While only my second "souls" game (after the remake of Demon's Souls), Elden Ring left a lasting impression. After 90+ hours just to beat the game, I am still left wanting more. The mystical world created by FromSoftware and George R.R. Martin captivated me enough to land it a slot in my top 10. The combat is incredibly refined and is by far the highlight of the game. FromSoftware has made so many "souls" games but Elden Ring feels above and beyond the rest as the culmination of years of perfecting a craft.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
 			<img src="{% link assets/images/colosseum.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#5 - Pokémon Colosseum</h3>
+					<h3>#6 - Pokémon Colosseum</h3>
 					<p>Gamecube</p>
 				</header>
 				<p>I am so excited to reach this game on this list. Pokémon Colosseum is lesser known entry in the francise but frankly it is Pokémon at its absolute best. It takes the usual gameplay of turn based battles and turns it up to 11 with every battle being a challenging double battle, the introduction of Shadow Pokémon and catching them from other trainers, as well as arguably the best storyline the francise has seen. Pair all that with the novelty of seeing Pokémon on the big screen in 3D and this game cemented itself as one my all time favorites.</p>
@@ -89,7 +104,7 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#6 - Resident Evil 7: Biohazard</h3>
+					<h3>#7 - Resident Evil 7: Biohazard</h3>
 					<p>PC, Xbox, Playstation</p>
 				</header>
 				<p>Horror games were never my thing. But after countless internet posts raving about how amazing this game was I had to try it out. I may have needed a bit of handholding to get through it, but Resident Evil 7 got my adrenaline pumping at every turn and its story was so intriguing I absolutely had to finish it. The switch to 1st person perspective for RE games was a hot topic amongst long time fans, but as relative newcomer to the series I adored the new take.</p>
@@ -103,7 +118,7 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#7 - Super Mario Sunshine</h3>
+					<h3>#8 - Super Mario Sunshine</h3>
 					<p>Gamecube, Nintendo Switch</p>
 				</header>
 				<p>I'm not going to lie, the fact that this is above any other Mario game on this list is 100% nostalgia goggles. That said, Super Mario Sunshine's unique F.L.O.O.D. mechanic and vibrant, colorful world stand out to me to this day. It's not as tightly controlled as most other 3D Mario platformers, but its charm is in spades. Also the way the game's hub-world was able to make the game feel open-world despite being a level based platformer is something I have not seen any other Mario game repeat.</p>
@@ -117,24 +132,10 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#8 - The Legends of Zelda: Breath of the Wild</h3>
+					<h3>#9 - The Legend of Zelda: Breath of the Wild</h3>
 					<p>Wii U, Nintendo Switch</p>
 				</header>
 				<p>Simply put: this game reignited the open world genre. Open world games as a whole had become stale and repetitive with every game feeling like the last with a new coat of paint. Then BOTW comes along and turns the whole notion of how the genre works upside down - and it worked. I've always had a weird relationship with Zelda games where I love the IP but never the biggest fan of the actual gameplay - but BOTW made me fall in love with gaming again.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a class="image">
-			<img src="{% link assets/images/portal2.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>#9 - Portal 2</h3>
-					<p>PC, Xbox, Playstation</p>
-				</header>
-				<p>Portal 2 took the stellar concept from 2007's Portal and ran with it resulting in a quirky story full of incredibly thought provoking puzzles. As the title hints at, in this game you use a Portal gun to solve puzzles in a testing facility under the guidance of crazy robots. The game's dark humor is truly what earned it its fame. Where is Portal 3 though?</p>
 			</div>
 		</div>
 	</section>
@@ -149,6 +150,20 @@ show_tile: false
 					<p>Playstation</p>
 				</header>
 				<p>100+ hours later just to beat the main story, Persona 5 deserves the number 10 spot on this list. It tells the story of teenager who struggles to be understood after his move to Tokyo as he gets involved in some paranormal activity where he has to fix the corrupted hearts of some of the city's most prominent individuals. Persona 5 takes the classic turn based combat on the Shin Megami Tensei series and the more social-based story that the Persona series is known for and adds a whole new layer of depth with the "palaces" it has you explore. The game definitely gets a little slow towards the end, and Persona 5 Royal exists as a separte game instead of DLC...but overall Persona 5 is an a fantastic game that has led to me playing many more spinoffs in the series.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/portal2.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>#10.5 - Portal 2</h3>
+					<p>PC, Xbox, Playstation</p>
+				</header>
+				<p>(Am I cheating by adding a 10.5?) Portal 2 took the stellar concept from 2007's Portal and ran with it resulting in a quirky story full of incredibly thought provoking puzzles. As the title hints at, in this game you use a Portal gun to solve puzzles in a testing facility under the guidance of crazy robots. The game's dark humor is truly what earned it its fame. Where is Portal 3 though?</p>
 			</div>
 		</div>
 	</section>
@@ -172,6 +187,11 @@ show_tile: false
 			</tr>
 		</thead>
 		<tbody>
+			<tr>
+				<td>Genshin Impact</td>
+				<td>PC, Playstation, Mobile</td>
+				<td>Despite being a gacha game, Genshin Impact is a fantastic game with an ever-evolving story and a colorful cast of characters.</td>
+			</tr>
 			<tr>
 				<td>Minecraft</td>
 				<td>PC, Console, Mobile</td>
