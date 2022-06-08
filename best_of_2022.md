@@ -14,7 +14,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>What I'm Plaing in 2022</h2>
+			<h2>What I'm Playing in 2022</h2>
 		</header>
 		<p>In chonological order of when I played them, the best games I'm playing in 2022.</p>
 	</div>
