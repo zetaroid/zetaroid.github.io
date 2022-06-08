@@ -54,21 +54,6 @@ show_tile: false
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/genshin.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Genshin Impact</h3>
-					<p>September 28, 2020</p>
-					<p>PC, Playstation, Mobile</p>
-				</header>
-				<p>Yes, its a free-to-play mobile game. Yes, it has microtransactions and a gacha system. But Genshin Impact is a testament that those kind of games also can be QUALITY. The world, the characters, the combat, quality and good gameplay design oozes at every corner. While the story isn't first class, it is exciting and will continue to unfold over the next few years. I'm excited to be on this train of adventure and look forward to seeing where it takes me.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a class="image">
 			<img src="{% link assets/images/kirbyforgottenland.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
