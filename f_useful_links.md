@@ -36,7 +36,7 @@ nav-menu: true
 				<td>I don't post a ton, but it's a fun side thing once in awhile.</td>
 			</tr>
 			<tr>
-				<td><a href="https://myanimelist.net/animelist/zetaroid?order=4&status=2" target="_blank" rel="noopener noreferrer">MyAnimeList</a></td>
+				<td><a href="https://anilist.co/user/zetaroid/animelist/Completed" target="_blank" rel="noopener noreferrer">My AniList</a></td>
 				<td>Every anime I've ever watched.</td>
 			</tr>
 			<tr>
