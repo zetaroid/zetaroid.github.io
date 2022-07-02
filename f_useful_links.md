@@ -70,8 +70,32 @@ nav-menu: true
 				<td>A replica Photoshop that runs in your browser. Completey free to use.</td>
 			</tr>
 			<tr>
+				<td><a href="https://freefilesync.org/" target="_blank" rel="noopener noreferrer">FreeFileSync</a></td>
+				<td>Amazing tool for syncing files between drives for backups.</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.jam-software.com/treesize_free" target="_blank" rel="noopener noreferrer">TreeSize Free</a></td>
+				<td>Ever feel like your drive is filling up too fast? This will show you everything and their sizes.</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.videolan.org/vlc/" target="_blank" rel="noopener noreferrer">VLC Media Player</a></td>
+				<td>Will play literally any video or audio. It is stellar.</td>
+			</tr>
+			<tr>
 				<td><a href="https://www.justbeamit.com/" target="_blank" rel="noopener noreferrer">JustBeamIt</a></td>
 				<td>A quick way of directly sending files to other people.</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">Davinci Resolve</a></td>
+				<td>Basically a free version of Adobe Premier Pro/Sony Vegas.</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.teamviewer.com/en-us/" target="_blank" rel="noopener noreferrer">TeamViewer</a></td>
+				<td>Great free software for remote desktop.</td>
+			</tr>
+			<tr>
+				<td><a href="https://obsproject.com/" target="_blank" rel="noopener noreferrer">OBS</a></td>
+				<td>For all your livestreaming needs.</td>
 			</tr>
 			<tr>
 				<td><a href="https://appscyborg.com/image-cyborg/" target="_blank" rel="noopener noreferrer">Image Cyborg</a></td>
