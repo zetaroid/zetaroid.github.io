@@ -5,7 +5,7 @@ description:
 image: assets/images/banner2022.png
 nav-menu: true
 order: 4
-permalink: "projects.html"
+permalink: "projects"
 ---
 
 <!-- Main -->

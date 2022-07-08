@@ -5,7 +5,7 @@ description:
 image: assets/images/aboutme.png
 nav-menu: true
 order: 1
-permalink: "aboutme.html"
+permalink: "aboutme"
 ---
 
 ## Good day! My name is Marcus Oertle.

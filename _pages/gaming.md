@@ -5,7 +5,7 @@ description:
 image: assets/images/gaming.webp
 nav-menu: true
 order: 5
-permalink: "gaming.html"
+permalink: "gaming"
 ---
 
 <!-- Main -->
