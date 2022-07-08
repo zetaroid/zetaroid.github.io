@@ -5,6 +5,7 @@ description:
 image: assets/images/education.jpg
 nav-menu: true
 order: 3
+permalink: "education.html"
 ---
 
 <!-- Main -->
