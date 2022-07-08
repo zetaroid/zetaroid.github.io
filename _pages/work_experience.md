@@ -33,7 +33,7 @@ order: 2
 					<p>Technical Product Marketing Intern</p>
 					<p>Summer 2022</p>
 				</header>
-				<p>At Red Hat I worked primarily on competitive analysis as well as creating customer success stories and win wires for their OpenShift product (an enterprise-ready Kubernetes container platform). Additionally I did market research, digital strategy analysis, and content development.</p>
+				<p>At Red Hat I worked primarily on competitive analysis as well as creating customer success stories and win wires for their OpenShift product (an enterprise-ready Kubernetes container platform). Additionally, I did market research, digital strategy analysis, and content development.</p>
 				<ul class="actions">
 					<li><a href="https://www.redhat.com/en" target="_blank" rel="noopener noreferrer" class="button">Learn more</a></li>
 				</ul>

@@ -1,4 +1,4 @@
-# Forty - Jekyll Theme
+# Forty - Jekyll Theme - Adapted for my personal website
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
