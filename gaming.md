@@ -4,6 +4,7 @@ layout: landing
 description: 
 image: assets/images/gaming.webp
 nav-menu: true
+order: 5
 ---
 
 <!-- Main -->
