@@ -4,6 +4,7 @@ layout: landing
 description:
 image: assets/images/techbackground.png
 nav-menu: true
+order: 2
 ---
 
 <!-- Main -->
