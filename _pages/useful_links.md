@@ -4,6 +4,7 @@ layout: page
 description: Socials and other tips for the internet.
 nav-menu: true
 order: 6
+permalink: "useful_links.html"
 ---
 <!-- Main -->
 <div id="main" class="alt">
