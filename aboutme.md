@@ -4,6 +4,7 @@ title: About Me
 description: 
 image: assets/images/aboutme.png
 nav-menu: true
+order: 1
 ---
 
 ## Good day! My name is Marcus Oertle.
