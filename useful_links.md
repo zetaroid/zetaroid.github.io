@@ -3,6 +3,7 @@ title: Useful Links
 layout: page
 description: Socials and other tips for the internet.
 nav-menu: true
+order: 6
 ---
 <!-- Main -->
 <div id="main" class="alt">
