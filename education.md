@@ -4,6 +4,7 @@ layout: landing
 description: 
 image: assets/images/education.jpg
 nav-menu: true
+order: 3
 ---
 
 <!-- Main -->
