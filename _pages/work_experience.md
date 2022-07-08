@@ -5,6 +5,7 @@ description:
 image: assets/images/techbackground.png
 nav-menu: true
 order: 2
+permalink: "work_experience.html"
 ---
 
 <!-- Main -->
