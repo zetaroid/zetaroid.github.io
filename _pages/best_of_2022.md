@@ -5,6 +5,7 @@ description:
 image: assets/images/bestof2022.jpg
 nav-menu: false
 show_tile: false
+permalink: "best_of_2022.html"
 ---
 
 <!-- Main -->
