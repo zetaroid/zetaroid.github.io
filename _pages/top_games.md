@@ -5,6 +5,7 @@ description:
 image: assets/images/gaming.webp
 nav-menu: false
 show_tile: false
+permalink: "top_games.html"
 ---
 
 <!-- Main -->
