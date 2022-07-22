@@ -9,6 +9,8 @@ permalink: "pokenav"
 ## [🗳️<u>Vote for PokéNav here!</u>🗳️](https://top.gg/bot/800207357622878229/vote)
 ## [![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Support Server")[<u>Official Server</u>](https://discord.gg/HwYME4Vwj9)[![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Official Server")
 
+![PokéNav Banner](https://i.imgur.com/wPd5oXX.png)
+
 ## Features
 * Battle, catch, and trade Pokemon from across all 9 generations including forms!
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
@@ -23,8 +25,6 @@ permalink: "pokenav"
   * Battle Tower
   * Secret Bases
 * Majority of game is played command free after typing "/start". Interact with the world through emojis. Desktop/Mobile friendly!
-
-![PokéNav Banner](https://i.imgur.com/wPd5oXX.png)
 
 ## Trailer (click the image)
 [![link to youtube trailer](https://i.imgur.com/BTRUOkh.png)](https://www.youtube.com/watch?v=QzVNxIQBygw "PokéNav Trailer")
