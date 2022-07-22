@@ -43,7 +43,7 @@ permalink: "pokenav"
   * Game autosaves, you do not need to do anything.
   * By default, you will have one global save. If you want separate save files per server, use `/disable_global_save`.
 * I'm confused on where to go.
-  * Please see: [Game Guide](#Game-Guide) or use `/guide`.
+  * `/guide`.
 * How long did this take to make?
   * I have been working on this since February 2021. Core mechanics took around 2 months but I have been updating ever since.
 * Is there PVP?
