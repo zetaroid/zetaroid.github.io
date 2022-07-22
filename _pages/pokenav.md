@@ -4,13 +4,14 @@ title: PokéNav
 description: 
 image: assets/images/banner2022.png
 nav-menu: false
+show_tile: false
 permalink: "pokenav"
 ---
 
 # PokéNav - Explore, Catch, Battle, Trade, PVP, and more!
 
-## [🗳️Vote for PokéNav here!🗳️](https://top.gg/bot/800207357622878229/vote)
-## [![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Support Server")[Support Server](https://discord.gg/HwYME4Vwj9)[![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Official Server")
+## [🗳️<u>Vote for PokéNav here!</u>🗳️](https://top.gg/bot/800207357622878229/vote)
+## [![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Support Server")[<u>Official Server</u>](https://discord.gg/HwYME4Vwj9)[![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Official Server")
 
 ## Table of Contents
 * [Features](#Features)
