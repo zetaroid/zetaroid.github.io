@@ -2,7 +2,7 @@
 layout: post
 title: PokéNav
 description: 
-image: assets/images/pokenav.png
+image: assets/images/banner2022.png
 nav-menu: false
 permalink: "pokenav"
 ---
