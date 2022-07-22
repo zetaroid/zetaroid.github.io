@@ -9,20 +9,6 @@ permalink: "pokenav"
 ## [🗳️<u>Vote for PokéNav here!</u>🗳️](https://top.gg/bot/800207357622878229/vote)
 ## [![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Support Server")[<u>Official Server</u>](https://discord.gg/HwYME4Vwj9)[![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Official Server")
 
-## Table of Contents
-* [Features](#Features)
-* [How To Play](#How-To-Play)
-* [FAQ](#FAQ)
-* [Game Guide](#Game-Guide)
-* [Commands](#Commands)
-  * [Main Commands](#Main-Commands)
-  * [Party Management](#Party-Management)
-  * [Player Management](#Player-Management)
-  * [PVP and Trading](#PVP-and-Trading)
-* [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
-* [Limited Time Events](#Events)
-* [Credits](#Credits)
-
 ## Features
 * Battle, catch, and trade Pokemon from across all 9 generations including forms!
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
