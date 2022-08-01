@@ -20,9 +20,9 @@ permalink: "gaming"
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Current Hype Train:<br>Xenoblade Chronicles 3</h3>
+					<h3>Current Hype Train:<br>Pokémon Scarlet and Violet</h3>
 				</header>
-				<p>As the follow up to my #1 game of all time, Xenoblade Chronicles 3 holds the current hype train slot!</p>
+				<p>It's Pokémon. I'm alwasy excited for it. Let's go!</p>
 				<p id="countdown"></p>
 			</div>
 		</div>
@@ -63,7 +63,7 @@ permalink: "gaming"
 	
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jul 29, 2022").getTime();
+var countDownDate = new Date("Nov 18, 2022").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
