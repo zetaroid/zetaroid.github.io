@@ -92,6 +92,10 @@ permalink: "useful_links"
 				<td>Basically a free version of Adobe Premier Pro/Sony Vegas.</td>
 			</tr>
 			<tr>
+				<td><a href="http://bugmenot.com/" target="_blank" rel="noopener noreferrer">BugMeNot</a></td>
+				<td>Accounts for common websites, like Glassdoor, that constantly ask you to sign up to view their content.</td>
+			</tr>
+			<tr>
 				<td><a href="https://www.teamviewer.com/en-us/" target="_blank" rel="noopener noreferrer">TeamViewer</a></td>
 				<td>Great free software for remote desktop.</td>
 			</tr>
