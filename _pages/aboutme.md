@@ -4,9 +4,11 @@ title: About Me
 description: 
 image: assets/images/aboutme.png
 nav-menu: true
+order: 1
+permalink: "aboutme"
 ---
 
-Good day! My name is Marcus Oertle.
+## Good day! My name is Marcus Oertle.
 
 ### Personal Bio
 Work is cool and all (feel free to jump below for that one), but let's talk me for second. I was born in Australia but moved to the United States when I was about 5 years old. To [everyone who I have ever told this to]'s dismay, I lost my adorable accent within a year of the move (biggest mistake mum and dad!). 

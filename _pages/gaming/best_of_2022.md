@@ -5,11 +5,22 @@ description:
 image: assets/images/bestof2022.jpg
 nav-menu: false
 show_tile: false
+permalink: "best_of_2022"
 ---
 
 <!-- Main -->
 <div id="main">
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>What I'm Playing in 2022</h2>
+		</header>
+		<p>In chonological order of when I played them, the best games I'm playing in 2022.</p>
+	</div>
+</section>
+	
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
@@ -44,21 +55,6 @@ show_tile: false
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/genshin.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Genshin Impact</h3>
-					<p>September 28, 2020</p>
-					<p>PC, Playstation, Mobile</p>
-				</header>
-				<p>Yes, its a free-to-play mobile game. Yes, it has microtransactions and a gacha system. But Genshin Impact is a testament that those kind of games also can be QUALITY. The world, the characters, the combat, quality and good gameplay design oozes at every corner. While the story isn't first class, it is exciting and will continue to unfold over the next few years. I'm excited to be on this train of adventure and look forward to seeing where it takes me.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a class="image">
 			<img src="{% link assets/images/kirbyforgottenland.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -68,7 +64,7 @@ show_tile: false
 					<p>March 25, 2022</p>
 					<p>Nintendo Switch</p>
 				</header>
-				<p>Now playing!</p>
+				<p>While I haven't played many Kirby games before, I thought I would give this one a shot. Despite its visual charm, the game didn't interest me much.</p>
 			</div>
 		</div>
 	</section>
@@ -84,6 +80,51 @@ show_tile: false
 					<p>Nintendo Switch</p>
 				</header>
 				<p>Party like it's 2008. This throwback to the Wii era of Wii Sports is wonderfully nostalgic and equally fresh for 2022. The addition of online play to the beloved formula cannot be understated and adds so much more depth to the classic concept.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/astralchain.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Astral Chain</h3>
+					<p>August 30, 2019</p>
+					<p>Nintendo Switch</p>
+				</header>
+				<p>Now playing!</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/ghostwiretokyo.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ghostwire Tokyo</h3>
+					<p>March 25, 2022</p>
+					<p>PC, Playstation</p>
+				</header>
+				<p>Now playing!</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/xc3.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Xenoblade Chronicles 3</h3>
+					<p>July 29, 2022</p>
+					<p>Nintendo Switch</p>
+				</header>
+				<p>The long awaited sequel to Xenoblade Chronicles 2. XC2 was my favorite game of all time, so I tried to temper my expectations going into this game. While XC3 didn't make my top 10 games of all time list due to poor story pacing, it still had an amazing cast of characters and an intriguing story (albeit a story that was easy to guess what was coming next way too often).</p>
 			</div>
 		</div>
 	</section>

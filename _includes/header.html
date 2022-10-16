@@ -1,6 +1,6 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<a href="{{ "./" | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<ul class="icons">
 		{% for key_value in site.socials %}
 			{% if key_value[1] %}
@@ -20,10 +20,11 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="actions vertical">
-		<li><a href="{{ "" | absolute_url }}" class="button special fit">Home</a></li>
+		<li><a href="{{ "./" | absolute_url }}" class="button special fit">Home</a></li>
 	</ul>
 	<ul class="links">
-        {% for page in site.pages %}
+	{% assign sorted_pages = site.pages | sort:"order" %}
+        {% for page in sorted_pages %}
 		{% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		{% endif %}

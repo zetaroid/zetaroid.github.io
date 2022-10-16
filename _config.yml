@@ -2,7 +2,7 @@
 title: Marcus Oertle
 subtitle: Product Manager | Software Engineer | MBA Candidate
 email: marcusoertle@gmail.com
-description: I'm a product manager focused on entering the gaming industry.
+description: I'm a product manager focused on re-entering the tech industry post-MBA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -36,6 +36,8 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+include: ['_pages']
 
 exclude:
 - "*.gemspec"
