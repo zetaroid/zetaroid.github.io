@@ -242,6 +242,11 @@ permalink: "top_games"
 				<td>PC, Xbox, Playstation</td>
 				<td>Given my love for Oblivion, I pretty much have to include Skyrim. It's a pop culture icon at this point.</td>
 			</tr>
+			<tr>
+				<td>Xenoblade Chronicles 3</td>
+				<td>Nintendo Switch</td>
+				<td>While it is missing what made Xenoblade Chronicles 2 so great, XC3 still holds up as a stellar JRPG.</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
