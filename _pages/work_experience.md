@@ -34,7 +34,7 @@ permalink: "work_experience"
 					<p>Technical Product Marketing Intern</p>
 					<p>Summer 2022</p>
 				</header>
-				<p>At Red Hat I did competitive analysis and market research to identify up-and-coming technoliges and how Red Hat can position itself into those areas. I primarily worked with Red Hat's OpenShift product (an enterprise-ready Kubernetes container platform) to formulate my solutions.</p>
+				<p>At Red Hat I did competitive analysis and market research to identify up-and-coming technologies and how Red Hat can position itself in those areas. I primarily worked with Red Hat's OpenShift product (an enterprise-ready Kubernetes container platform) to formulate my solutions.</p>
 				<ul class="actions">
 					<li><a href="https://www.redhat.com/en" target="_blank" rel="noopener noreferrer" class="button">Learn more</a></li>
 				</ul>
