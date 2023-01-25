@@ -32,7 +32,7 @@ permalink: "work_experience"
 				<header class="major">
 					<h3>Red Hat</h3>
 					<p>Technical Product Marketing Intern</p>
-					<p>May 2022 - December 2022/p>
+					<p>May 2022 - December 2022</p>
 				</header>
 				<p>At Red Hat I did competitive analysis and market research to identify up-and-coming technologies and how Red Hat can position itself in those areas. I primarily worked with Red Hat's OpenShift product (an enterprise-ready Kubernetes container platform) to formulate my solutions.</p>
 				<ul class="actions">
