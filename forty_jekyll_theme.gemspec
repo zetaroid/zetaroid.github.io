@@ -14,5 +14,4 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "jekyll", "~> 4.0"
   spec.add_development_dependency "bundler", "~> 2.2"
-  spec.add_development_dependency "jekyll-sass-converter", "~> 2.0"
 end
