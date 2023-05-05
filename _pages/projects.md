@@ -24,7 +24,7 @@ permalink: "projects"
 					<p>Discord Bot</p>
 					<p>2021-Present</p>
 				</header>
-				<p>A Discord bot that is a full-length Pokemon RPG game experience that includes exploration, battles, gyms, PVP, trading, Battle Tower, and more! Currently the game has over 3200 players and growing along with an active community.</p>
+				<p>A Discord bot that is a full-length Pokemon RPG game experience that includes exploration, battles, gyms, PVP, trading, Battle Tower, and more! Currently the game has over 5500 players and growing along with an active community.</p>
 				<ul class="actions">
 					<li><a href="https://www.youtube.com/watch?v=QzVNxIQBygw" target="_blank" rel="noopener noreferrer" class="button">Check it out!</a></li>
 				</ul>
