@@ -14,20 +14,6 @@ permalink: "gaming"
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a class="image">
-			<img src="{% link assets/images/hypetrain.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Current Hype Train:<br>Pokémon Scarlet and Violet</h3>
-				</header>
-				<p>It's Pokémon. I'm alwasy excited for it. Let's go!</p>
-				<p id="countdown"></p>
-			</div>
-		</div>
-	</section>
-	<section>
 		<a href="top_games.html" class="image">
 			<img src="{% link assets/images/smash.png %}" alt="" data-position="center center" />
 		</a>
