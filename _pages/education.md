@@ -24,7 +24,7 @@ permalink: "education"
 					<p>Masters of Business Administration</p>
 					<p>2021-2023</p>
 				</header>
-				<p>While I was at AT&T, I noticed a frequent gap in understanding between tech leads and business stakeholders. As a product manager with a strong tech background, I wanted to bridge this gap in my future career. A well-rounded MBA from JHU was the perfect fit for goals to pivot and re-enter the tech industry better prepared to face complex challenges.</p>
+				<p>While I was at AT&T, I noticed a frequent gap in understanding between tech leads and business stakeholders. I wanted to bridge this gap in my future career. A well-rounded MBA from JHU was the perfect fit for goals to pivot and re-enter the tech industry better prepared to face complex challenges.</p>
 				<ul class="actions">
 					<li><a href="https://carey.jhu.edu/" target="_blank" rel="noopener noreferrer" class="button">Learn more</a></li>
 				</ul>
