@@ -32,7 +32,7 @@ permalink: "work_experience"
 				<header class="major">
 					<h3>Bell Flight</h3>
 					<p>Senior Software Engineer</p>
-					<p>May 2022 - December 2022</p>
+					<p>July 2023 - Present</p>
 				</header>
 				<p>At Bell Flight I am currently supporting the FLRAA program to build a V-280 tilt-rotor aircraft for the United States Government. My work revolves around embedded programming in C++ for the Air Vehicle Computer as well as data modeling to bring the aircraft to life. The job is challening but rewarding as I work to meet tight government timelines and milestones.</p>
 				<ul class="actions">
