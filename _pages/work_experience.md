@@ -24,6 +24,24 @@ permalink: "work_experience"
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://www.bellflight.com/" target="_blank" rel="noopener noreferrer" class="image">
+			<img src="{% link assets/images/bellflight.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Bell Flight</h3>
+					<p>Senior Software Engineer</p>
+					<p>May 2022 - December 2022</p>
+				</header>
+				<p>At Bell Flight I am currently supporting the FLRAA program to build a V-280 tilt-rotor aircraft for the United States Government. My work revolves around embedded programming in C++ for the Air Vehicle Computer as well as data modeling to bring the aircraft to life. The job is challening but rewarding as I work to meet tight government timelines and milestones.</p>
+				<ul class="actions">
+					<li><a href="https://www.bellflight.com/" target="_blank" rel="noopener noreferrer" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://www.redhat.com/en" target="_blank" rel="noopener noreferrer" class="image">
 			<img src="{% link assets/images/redhat.png %}" alt="" data-position="center center" />
 		</a>
