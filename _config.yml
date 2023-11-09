@@ -1,16 +1,16 @@
 # site settings
 title: Marcus Oertle
-subtitle: Product Manager | Software Engineer | MBA Candidate
+subtitle: Software Engineer | Product Manager | MBA
 email: marcusoertle@gmail.com
-description: I'm a product manager focused on re-entering the tech industry post-MBA.
+description: I'm a software engineer with a strong business acumen and MBA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
 city:
-state: Maryland,
+state: Texas,
 zip_code:
-country: United States of America
+country: USA
 phone: Please email me instead!
 
 # homepage tiles
