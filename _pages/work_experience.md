@@ -17,7 +17,7 @@ permalink: "work_experience"
 		<header class="major">
 			<h2>My Work History</h2>
 		</header>
-		<p>My work history is diverse and a testament to my evolving interest in the tech field and my place in it. I started out with plans to be an electrical engineer when I started college, but now I look to a future as a product manager in the gaming industry.</p>
+		<p>My work history is diverse and a testament to my evolving interest in the tech field and my place in it.</p>
 	</div>
 </section>
 
