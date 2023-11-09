@@ -29,22 +29,6 @@ permalink: "gaming"
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="best_of_2022.html" class="image">
-			<img src="{% link assets/images/bestof2022.png %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Best of 2022</h3>
-				</header>
-				<p>What I've played in 2022 and my thoughts on it.</p>
-				<ul class="actions">
-					<li><a href="best_of_2022.html" class="button">See it!</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 </section>
 	
 <script>
