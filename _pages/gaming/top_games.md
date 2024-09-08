@@ -141,15 +141,29 @@ permalink: "top_games"
 	</section>
 	<section>
 		<a class="image">
+			<img src="{% link assets/images/p3.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>#10 - Persona 3 Reload</h3>
+					<p>Playstation</p>
+				</header>
+				<p>Wow. I loved Persona 5, and had tried Persona 4 but it felt a little dated. So when Persona 3 Reload was announced I was mild on it. The dungeon design in the older persona games is via procedural generation, whereas Persona 5 has hand crafted unique dungeons. Persona 3 Reload blew my expectations out of the water. Hands down the best cast and story in the franchise, and the modernized dungeons, while still procedurally generated, felt a lot more fun to play. The ending left me in tears.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
 			<img src="{% link assets/images/persona5.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#10 - Persona 5</h3>
+					<h3>#11 - Persona 5</h3>
 					<p>Playstation</p>
 				</header>
-				<p>100+ hours later just to beat the main story, Persona 5 deserves the number 10 spot on this list. It tells the story of teenager who struggles to be understood after his move to Tokyo as he gets involved in some paranormal activity where he has to fix the corrupted hearts of some of the city's most prominent individuals. Persona 5 takes the classic turn based combat on the Shin Megami Tensei series and the more social-based story that the Persona series is known for and adds a whole new layer of depth with the "palaces" it has you explore. The game definitely gets a little slow towards the end, and Persona 5 Royal exists as a separte game instead of DLC...but overall Persona 5 is an a fantastic game that has led to me playing many more spinoffs in the series.</p>
+				<p>(This used to be 10, but got bumped!) 100+ hours later just to beat the main story, Persona 5 deserves the number 11 spot on this list. It tells the story of teenager who struggles to be understood after his move to Tokyo as he gets involved in some paranormal activity where he has to fix the corrupted hearts of some of the city's most prominent individuals. Persona 5 takes the classic turn based combat on the Shin Megami Tensei series and the more social-based story that the Persona series is known for and adds a whole new layer of depth with the "palaces" it has you explore. The game definitely gets a little slow towards the end, and Persona 5 Royal exists as a separte game instead of DLC...but overall Persona 5 is an a fantastic game that has led to me playing many more spinoffs in the series.</p>
 			</div>
 		</div>
 	</section>
@@ -163,7 +177,7 @@ permalink: "top_games"
 					<h3>#10.5 - Portal 2</h3>
 					<p>PC, Xbox, Playstation</p>
 				</header>
-				<p>(Am I cheating by adding a 10.5?) Portal 2 took the stellar concept from 2007's Portal and ran with it resulting in a quirky story full of incredibly thought provoking puzzles. As the title hints at, in this game you use a Portal gun to solve puzzles in a testing facility under the guidance of crazy robots. The game's dark humor is truly what earned it its fame. Where is Portal 3 though?</p>
+				<p>(Who says 10's the limit?) Portal 2 took the stellar concept from 2007's Portal and ran with it resulting in a quirky story full of incredibly thought provoking puzzles. As the title hints at, in this game you use a Portal gun to solve puzzles in a testing facility under the guidance of crazy robots. The game's dark humor is truly what earned it its fame. Where is Portal 3 though?</p>
 			</div>
 		</div>
 	</section>
