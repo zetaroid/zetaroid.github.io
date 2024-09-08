@@ -14,6 +14,24 @@ permalink: "projects"
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://www.youtube.com/watch?v=HKOsTJfZPv8" target="_blank" rel="noopener noreferrer" class="image">
+			<img src="{% link assets/images/untitled_game.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Untitled Game - 2D Top Down RPG</h3>
+					<p>Python Game</p>
+					<p>2024-Present</p>
+				</header>
+				<p>This project is an absolute passion project for me. I am building my own game and engine from the ground up in Python and it has been an blast to work on in my free time. Please check out my progress so far and look forward to future updates!</p>
+				<ul class="actions">
+					<li><a href="https://www.youtube.com/watch?v=HKOsTJfZPv8" target="_blank" rel="noopener noreferrer" class="button">Check it out!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://www.youtube.com/watch?v=QzVNxIQBygw" target="_blank" rel="noopener noreferrer" class="image">
 			<img src="{% link assets/images/pokenav.gif %}" alt="" data-position="center center" />
 		</a>
