@@ -174,7 +174,7 @@ permalink: "top_games"
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#10.5 - Portal 2</h3>
+					<h3>#12 - Portal 2</h3>
 					<p>PC, Xbox, Playstation</p>
 				</header>
 				<p>(Who says 10's the limit?) Portal 2 took the stellar concept from 2007's Portal and ran with it resulting in a quirky story full of incredibly thought provoking puzzles. As the title hints at, in this game you use a Portal gun to solve puzzles in a testing facility under the guidance of crazy robots. The game's dark humor is truly what earned it its fame. Where is Portal 3 though?</p>
