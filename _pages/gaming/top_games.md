@@ -1,5 +1,5 @@
 ---
-title: Top 10 Games of All Time
+title: Top Games of All Time
 layout: landing
 description: 
 image: assets/images/gaming.webp
@@ -260,6 +260,11 @@ permalink: "top_games"
 				<td>Xenoblade Chronicles 3</td>
 				<td>Nintendo Switch</td>
 				<td>While it is missing what made Xenoblade Chronicles 2 so great, XC3 still holds up as a stellar JRPG.</td>
+			</tr>
+			<tr>
+				<td>Kingdom Come Deliverance 2</td>
+				<td>PC, Xbox, PS5</td>
+				<td>The closest I have felt to an Elder Scrolls game since Skyrim. With a fantastic story and cast to boot.</td>
 			</tr>
 		</tbody>
 	</table>
