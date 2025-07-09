@@ -37,7 +37,7 @@ permalink: "top_games"
 					<h3>#2 - The Elder Scrolls IV: Oblivion</h3>
 					<p>PC, Xbox, Playstation</p>
 				</header>
-				<p>The pinnacle of my childhood gaming. Although not as well known as its successor, Skyrim, The Elder Scrolls IV: Oblivion sets itself apart for me with its colorful world and overall humorous tone it takes throughout the game. The world feels the most 'fantasy' out of the Elder Scrolls games to me and I hope that Bethesda brings back some of this feeling in the next entry in the series. In 2025, it received beautiful, albeit still buggy, remaster. Reliving the game again was just a magical as the first time and it stands strong as my #2 game of all time.</p>
+				<p>The pinnacle of my childhood gaming. Although not as well known as its successor, Skyrim, The Elder Scrolls IV: Oblivion sets itself apart for me with its colorful world and overall humorous tone it takes throughout the game. The world feels the most 'fantasy' out of the Elder Scrolls games to me and I hope that Bethesda brings back some of this feeling in the next entry in the series. In 2025, it received a beautiful, albeit still buggy, remaster. Reliving the game again was just a magical as the first time and it stands strong as my #2 game of all time.</p>
 			</div>
 		</div>
 	</section>
