@@ -2,13 +2,13 @@
 title: Marcus Oertle
 subtitle: Software Engineer | Product Manager | MBA
 email: marcusoertle@gmail.com
-description: I'm a software engineer with a strong business acumen and MBA.
+description: I am a data architect and software engineer with a strong business acumen and MBA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
 city:
-state: Texas,
+state: Pennsylvania,
 zip_code:
 country: USA
 phone: Please email me instead!
