@@ -14,7 +14,7 @@ permalink: "projects"
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://www.youtube.com/watch?v=HKOsTJfZPv8" target="_blank" rel="noopener noreferrer" class="image">
+		<a href="https://www.youtube.com/watch?v=kqbpNKMd15s" target="_blank" rel="noopener noreferrer" class="image">
 			<img src="{% link assets/images/untitled_game.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
