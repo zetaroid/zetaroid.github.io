@@ -50,7 +50,7 @@ permalink: "projects"
 		</div>
 	</section>
 	<section>
-		<a href="https://play.google.com/store/apps/details?id=com.Zetaroid.ButtonFighter&hl=en_US&gl=US" target="_blank" rel="noopener noreferrer" class="image">
+		<a href="https://www.youtube.com/watch?v=mbF707V1unw" target="_blank" rel="noopener noreferrer" class="image">
 			<img src="{% link assets/images/buttonfighter.gif %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -62,7 +62,7 @@ permalink: "projects"
 				</header>
 				<p>It's a simple Android game with high replayability where you play as a knight against a single boss enemy. Combat is based on quick reaction timing against the bosses different attacks in a rock/paper/scissors format. Gain EXP to level up and unlock equipable items.</p>
 				<ul class="actions">
-					<li><a href="https://play.google.com/store/apps/details?id=com.Zetaroid.ButtonFighter&hl=en_US&gl=US" target="_blank" rel="noopener noreferrer" class="button">Check it out!</a></li>
+					<li><a href="https://www.youtube.com/watch?v=mbF707V1unw" target="_blank" rel="noopener noreferrer" class="button">Check it out!</a></li>
 				</ul>
 			</div>
 		</div>
