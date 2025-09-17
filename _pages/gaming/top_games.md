@@ -85,26 +85,12 @@ permalink: "top_games"
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/colosseum.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>#6 - Pokémon Colosseum</h3>
-					<p>Gamecube</p>
-				</header>
-				<p>I am so excited to reach this game on this list. Pokémon Colosseum is lesser known entry in the francise but frankly it is Pokémon at its absolute best. It takes the usual gameplay of turn based battles and turns it up to 11 with every battle being a challenging double battle, the introduction of Shadow Pokémon and catching them from other trainers, as well as arguably the best storyline the francise has seen. Pair all that with the novelty of seeing Pokémon on the big screen in 3D and this game cemented itself as one my all time favorites.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a class="image">
 			<img src="{% link assets/images/residentevil7.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#7 - Resident Evil 7: Biohazard</h3>
+					<h3>#6 - Resident Evil 7: Biohazard</h3>
 					<p>PC, Xbox, Playstation</p>
 				</header>
 				<p>Horror games were never my thing. But after countless internet posts raving about how amazing this game was I had to try it out. I may have needed a bit of handholding to get through it, but Resident Evil 7 got my adrenaline pumping at every turn and its story was so intriguing I absolutely had to finish it. The switch to 1st person perspective for RE games was a hot topic amongst long time fans, but as relative newcomer to the series I adored the new take.</p>
@@ -118,7 +104,7 @@ permalink: "top_games"
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#8 - Super Mario Sunshine</h3>
+					<h3>#7 - Super Mario Sunshine</h3>
 					<p>Gamecube, Nintendo Switch</p>
 				</header>
 				<p>I'm not going to lie, the fact that this is above any other Mario game on this list is 100% nostalgia goggles. That said, Super Mario Sunshine's unique F.L.O.O.D. mechanic and vibrant, colorful world stand out to me to this day. It's not as tightly controlled as most other 3D Mario platformers, but its charm is in spades. Also the way the game's hub-world was able to make the game feel open-world despite being a level based platformer is something I have not seen any other Mario game repeat.</p>
@@ -132,7 +118,7 @@ permalink: "top_games"
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#9 - The Legend of Zelda: Breath of the Wild</h3>
+					<h3>#8 - The Legend of Zelda: Breath of the Wild</h3>
 					<p>Wii U, Nintendo Switch</p>
 				</header>
 				<p>Simply put: this game reignited the open world genre. Open world games as a whole had become stale and repetitive with every game feeling like the last with a new coat of paint. Then BOTW comes along and turns the whole notion of how the genre works upside down - and it worked. I've always had a weird relationship with Zelda games where I love the IP but never the biggest fan of the actual gameplay - but BOTW made me fall in love with gaming again.</p>
@@ -146,7 +132,7 @@ permalink: "top_games"
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#10 - Persona 3 Reload</h3>
+					<h3>#9 - Persona 3 Reload</h3>
 					<p>Playstation</p>
 				</header>
 				<p>Wow. I loved Persona 5, and had tried Persona 4 but it felt a little dated. So when Persona 3 Reload was announced I was mild on it. The dungeon design in the older persona games is via procedural generation, whereas Persona 5 has hand crafted unique dungeons. Persona 3 Reload blew my expectations out of the water. Hands down the best cast and story in the franchise, and the modernized dungeons, while still procedurally generated, felt a lot more fun to play. The ending left me in tears.</p>
@@ -160,10 +146,10 @@ permalink: "top_games"
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#11 - Persona 5</h3>
+					<h3>#10 - Persona 5</h3>
 					<p>Playstation</p>
 				</header>
-				<p>(This used to be 10, but got bumped!) 100+ hours later just to beat the main story, Persona 5 deserves the number 11 spot on this list. It tells the story of teenager who struggles to be understood after his move to Tokyo as he gets involved in some paranormal activity where he has to fix the corrupted hearts of some of the city's most prominent individuals. Persona 5 takes the classic turn based combat on the Shin Megami Tensei series and the more social-based story that the Persona series is known for and adds a whole new layer of depth with the "palaces" it has you explore. The game definitely gets a little slow towards the end, and Persona 5 Royal exists as a separte game instead of DLC...but overall Persona 5 is an a fantastic game that has led to me playing many more spinoffs in the series.</p>
+				<p>100+ hours later just to beat the main story, Persona 5 deserves the number 11 spot on this list. It tells the story of teenager who struggles to be understood after his move to Tokyo as he gets involved in some paranormal activity where he has to fix the corrupted hearts of some of the city's most prominent individuals. Persona 5 takes the classic turn based combat on the Shin Megami Tensei series and the more social-based story that the Persona series is known for and adds a whole new layer of depth with the "palaces" it has you explore. The game definitely gets a little slow towards the end, and Persona 5 Royal exists as a separate game instead of DLC...but overall Persona 5 is an a fantastic game that has led to me playing many more spinoffs in the series.</p>
 			</div>
 		</div>
 	</section>
@@ -174,10 +160,24 @@ permalink: "top_games"
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#12 - Portal 2</h3>
+					<h3>#11 - Portal 2</h3>
 					<p>PC, Xbox, Playstation</p>
 				</header>
-				<p>(Who says 10's the limit?) Portal 2 took the stellar concept from 2007's Portal and ran with it resulting in a quirky story full of incredibly thought provoking puzzles. As the title hints at, in this game you use a Portal gun to solve puzzles in a testing facility under the guidance of crazy robots. The game's dark humor is truly what earned it its fame. Where is Portal 3 though?</p>
+				<p>Portal 2 took the stellar concept from 2007's Portal and ran with it resulting in a quirky story full of incredibly thought provoking puzzles. As the title hints at, in this game you use a Portal gun to solve puzzles in a testing facility under the guidance of crazy robots. The game's dark humor is truly what earned it its fame. Where is Portal 3 though?</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/colosseum.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>#12 - Pokémon Colosseum</h3>
+					<p>Gamecube</p>
+				</header>
+				<p>(WARNING: Nostalgia bias.) I am so excited to reach this game on this list. Pokémon Colosseum is lesser known entry in the francise but frankly it is Pokémon at its absolute best. It takes the usual gameplay of turn based battles and turns it up to 11 with every battle being a challenging double battle, the introduction of Shadow Pokémon and catching them from other trainers, as well as the most unique storyline the francise has seen. Pair all that with the novelty of seeing Pokémon on the big screen in 3D and this game cemented itself as one my all time favorites. I have to admit, every time I replay the game I see more and more cracks, but that doesn't take away from how awestruck I was when I first played it.</p>
 			</div>
 		</div>
 	</section>
@@ -202,11 +202,6 @@ permalink: "top_games"
 		</thead>
 		<tbody>
 			<tr>
-				<td>Genshin Impact</td>
-				<td>PC, Playstation, Mobile</td>
-				<td>Despite being a gacha game, Genshin Impact is a fantastic game with an ever-evolving story and a colorful cast of characters.</td>
-			</tr>
-			<tr>
 				<td>Minecraft</td>
 				<td>PC, Console, Mobile</td>
 				<td>One of the most well known games of the 21st century, Minecraft allows unprecendented levels of freedom and collaboration.</td>
@@ -215,6 +210,11 @@ permalink: "top_games"
 				<td>Pokémon Emerald</td>
 				<td>GBA</td>
 				<td>My favorite mainline Pokémon game. The addition of the Battle Frontier and revamped story make this one of the most polished Pokémon games.</td>
+			</tr>
+			<tr>
+				<td>Pokémon Black/White/Black2/White2</td>
+				<td>GBA</td>
+				<td>Best story in a Pokémon game, and the last of the 2D era. For many people, this was the peak of the franchise.</td>
 			</tr>
 			<tr>
 				<td>Super Mario Odyssey</td>
@@ -259,12 +259,22 @@ permalink: "top_games"
 			<tr>
 				<td>Xenoblade Chronicles 3</td>
 				<td>Nintendo Switch</td>
-				<td>While it is missing what made Xenoblade Chronicles 2 so great, XC3 still holds up as a stellar JRPG.</td>
+				<td>While it is missing what made Xenoblade Chronicles 2 so great, XC3 still holds up as a stellar JRPG. Xenoblade Chronicles 1 is also a great game, but didn't grip me in the same way that 2 and 3 did.</td>
+			</tr>
+			<tr>
+				<td>Genshin Impact</td>
+				<td>PC, Playstation, Mobile</td>
+				<td>Despite being a gacha game, Genshin Impact is a fantastic game with an ever-evolving story and a colorful cast of characters.</td>
 			</tr>
 			<tr>
 				<td>Kingdom Come Deliverance 2</td>
 				<td>PC, Xbox, PS5</td>
 				<td>The closest I have felt to an Elder Scrolls game since Skyrim. With a fantastic story and cast to boot.</td>
+			</tr>
+			<tr>
+				<td>Clair Obscur: Expedition 33</td>
+				<td>PC, Xbox, PS5</td>
+				<td>Incredible story and music with combat that combines the best of turn-based RPGs to deliver an unforgettable experience. This might honestly be one of the best stories in gaming, albeit with a mediocre cast of characters.</td>
 			</tr>
 		</tbody>
 	</table>
