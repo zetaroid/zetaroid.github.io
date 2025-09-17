@@ -26,7 +26,7 @@ permalink: "projects"
 				</header>
 				<p>This project is an absolute passion project for me. I am building my own game and engine from the ground up in Python and it has been an blast to work on in my free time. Please check out my progress so far and look forward to future updates!</p>
 				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=HKOsTJfZPv8" target="_blank" rel="noopener noreferrer" class="button">Check it out!</a></li>
+					<li><a href="https://www.youtube.com/watch?v=kqbpNKMd15s" target="_blank" rel="noopener noreferrer" class="button">Check it out!</a></li>
 				</ul>
 			</div>
 		</div>
