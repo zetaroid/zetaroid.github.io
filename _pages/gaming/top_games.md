@@ -169,12 +169,26 @@ permalink: "top_games"
 	</section>
 	<section>
 		<a class="image">
+			<img src="{% link assets/images/emerald.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>#12 - Pokémon Emerald</h3>
+					<p>GBA</p>
+				</header>
+				<p>(WARNING: Nostalgia bias.) Pokémon Emerald is my favorite Pokémon game and probably always will be. Ruby/Sapphire were fun as a kid, but Emerald (despite my issues with the entire concept of "third versions" of Pokémon games...) is a steallar improvement. Pokémon are now animated when they come into battle, the story makes way more sense, gym leaders have better teams, and they added a new area called the Battle Frontier. As a kid, I didn't think too much of Emerald vs Ruby/Sapphire. But as an adult, the Battle Frontier is everything I could ask from a Pokémon post game. I really wish that Game Freak would bring back a newer Battle Frontier since making competitive Pokémon is WAY more viable now than it was in Gen 3.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
 			<img src="{% link assets/images/colosseum.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>#12 - Pokémon Colosseum</h3>
+					<h3>#13 - Pokémon Colosseum</h3>
 					<p>Gamecube</p>
 				</header>
 				<p>(WARNING: Nostalgia bias.) I am so excited to reach this game on this list. Pokémon Colosseum is lesser known entry in the francise but frankly it is Pokémon at its absolute best. It takes the usual gameplay of turn based battles and turns it up to 11 with every battle being a challenging double battle, the introduction of Shadow Pokémon and catching them from other trainers, as well as the most unique storyline the francise has seen. Pair all that with the novelty of seeing Pokémon on the big screen in 3D and this game cemented itself as one my all time favorites. I have to admit, every time I replay the game I see more and more cracks, but that doesn't take away from how awestruck I was when I first played it.</p>
@@ -207,9 +221,9 @@ permalink: "top_games"
 				<td>One of the most well known games of the 21st century, Minecraft allows unprecendented levels of freedom and collaboration.</td>
 			</tr>
 			<tr>
-				<td>Pokémon Emerald</td>
-				<td>GBA</td>
-				<td>My favorite mainline Pokémon game. The addition of the Battle Frontier and revamped story make this one of the most polished Pokémon games.</td>
+				<td>Pokémon Legends Arceus</td>
+				<td>Nintendo Switch</td>
+				<td>A fun experiment into a totally different kind of Pokémon game. By far my favorite Pokémon experience on the Nintendo Switch.</td>
 			</tr>
 			<tr>
 				<td>Pokémon Black/White/Black2/White2</td>
