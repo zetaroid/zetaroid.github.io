@@ -290,6 +290,11 @@ permalink: "top_games"
 				<td>PC, Xbox, PS5</td>
 				<td>Incredible story and music with combat that combines the best of turn-based RPGs to deliver an unforgettable experience. This might honestly be one of the best stories in gaming, albeit with a mediocre cast of characters.</td>
 			</tr>
+			<tr>
+				<td>Death Stranding</td>
+				<td>PC, PS5</td>
+				<td>I put this one off for years becauase I thought it was just playing "Amazon Delivery Man" but it blew me away. The story and the way the game hits you is so unique. I'm on the Kojima train now I guess.</td>
+			</tr
 		</tbody>
 	</table>
 </div>
