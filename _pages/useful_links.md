@@ -42,7 +42,7 @@ permalink: "useful_links"
 				<td>Every anime I've ever watched.</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.dropbox.com/s/w7157271jrqbt4t/VideoGameList.xlsx?dl=0" target="_blank" rel="noopener noreferrer">Video Game Spreadsheet</a></td>
+				<td><a href="https://docs.google.com/spreadsheets/d/1YOx2xxMYK0C-Rw-LHf9yexo4k-yslhV4/edit?usp=sharing&ouid=105315335206197143667&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Video Game Spreadsheet</a></td>
 				<td>Every video game I have ever played.</td>
 			</tr>
 		</tbody>
