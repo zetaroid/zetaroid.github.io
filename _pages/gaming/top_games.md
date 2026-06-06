@@ -294,7 +294,7 @@ permalink: "top_games"
 				<td>Death Stranding</td>
 				<td>PC, PS5</td>
 				<td>I put this one off for years becauase I thought it was just playing "Amazon Delivery Man" but it blew me away. The story and the way the game hits you is so unique. I'm on the Kojima train now I guess.</td>
-			</tr
+			</tr>
 		</tbody>
 	</table>
 </div>
